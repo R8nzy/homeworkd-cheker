@@ -1,0 +1,2 @@
+TOKEN = '8926747277:AAE-vAgPMGLQLdEsQAIHdyuCwjsgn3PpT0Y'
+DATABASE = "homework.db"
